@@ -1,0 +1,1 @@
+{"name":"Local: Python_Practice","url":"c:\\Users\\HP\\Documents\\Anmol Codes\\Python_Practice.py","tests":[{"id":1687967115083,"input":"","output":"Input: n = 10\nOutput: [[3,7],[5,5]]\n\nInput: n = 2\nOutput: []"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Documents\\Anmol Codes\\Python_Practice.py","group":"local","local":true}
